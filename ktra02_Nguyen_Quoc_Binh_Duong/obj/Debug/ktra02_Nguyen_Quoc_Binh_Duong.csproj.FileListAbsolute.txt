@@ -1,0 +1,10 @@
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\bin\Debug\ktra02_Nguyen_Quoc_Binh_Duong.exe.config
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\bin\Debug\ktra02_Nguyen_Quoc_Binh_Duong.exe
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\bin\Debug\ktra02_Nguyen_Quoc_Binh_Duong.pdb
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.Form1.resources
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.Properties.Resources.resources
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.csproj.GenerateResource.cache
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.exe
+C:\Users\Tung\Desktop\ktra02_Nguyen_Quoc_Binh_Duong\obj\Debug\ktra02_Nguyen_Quoc_Binh_Duong.pdb
