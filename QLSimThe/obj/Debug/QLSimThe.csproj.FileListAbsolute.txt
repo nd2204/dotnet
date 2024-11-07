@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\QLSimThe\bin\Debug\QLSimThe.exe.config
+C:\Users\Admin\source\repos\QLSimThe\bin\Debug\QLSimThe.exe
+C:\Users\Admin\source\repos\QLSimThe\bin\Debug\QLSimThe.pdb
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.QLSim.resources
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.exe
+C:\Users\Admin\source\repos\QLSimThe\obj\Debug\QLSimThe.pdb
